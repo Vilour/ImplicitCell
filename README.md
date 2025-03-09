@@ -2,7 +2,7 @@
 
 Our paper is currently undergoing peer review. The code, dataset, and application will be released once the paper is accepted.
 
-![teaser](assets/teaser.png)
+<img src="assets/teaser.png" width="400" alt="teaser">
 
 ## Framework
 ![framework](assets/Conception.png)
