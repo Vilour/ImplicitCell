@@ -5,7 +5,8 @@ Our paper is currently undergoing peer review. The code, dataset, and applicatio
 <img src="assets/teaser.png" width="400" alt="teaser">
 
 ## Framework
-![framework](assets/Conception.png)
+<img src="assets/Conception.png" width="500" alt="framework">
+
 
 
 ## Acknowledgments
